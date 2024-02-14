@@ -1,1 +1,3 @@
-print("Hola desde mi maquina")
+import cv2
+
+img = cv2.VideoCapture(0)
